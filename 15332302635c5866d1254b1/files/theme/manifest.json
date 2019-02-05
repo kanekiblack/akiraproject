@@ -1,0 +1,23 @@
+ {
+	"responsive": true,
+	"tmpSocialIconFont": true,
+	"description": "Highlighter is an unapologetic writer's dream. Wonderfully minimalist design lets your content take over the page, forcing  visitors to engage with your text. Punchy colors bring important design aspects to life and give each page a stylish accent. Highlighter is perfect for anyone who's ready to share some big ideas with the world.",
+	"enableEditorJS": true,
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"navigation-top",
+		"color-palettes"
+	],
+	"header-conversions": {
+        "user-id": "80949722",
+        "site-id": "920957853699084299",
+        "page-types": {
+            "tall-header": "578357660460101157",
+            "short-header": "610820525801977689",
+            "landing": "242482130378659812",
+			"title": "194089622995453249"
+        }
+    }
+}
